@@ -1,0 +1,7 @@
+D:\Users\1210N-9\Documents\2-ИСП\ОП\Подгруппа 1\Кондаков\PR_15\bin\Debug\PR_15.exe.config
+D:\Users\1210N-9\Documents\2-ИСП\ОП\Подгруппа 1\Кондаков\PR_15\bin\Debug\PR_15.exe
+D:\Users\1210N-9\Documents\2-ИСП\ОП\Подгруппа 1\Кондаков\PR_15\bin\Debug\PR_15.pdb
+D:\Users\1210N-9\Documents\2-ИСП\ОП\Подгруппа 1\Кондаков\PR_15\obj\Debug\PR_15.csproj.AssemblyReference.cache
+D:\Users\1210N-9\Documents\2-ИСП\ОП\Подгруппа 1\Кондаков\PR_15\obj\Debug\PR_15.csproj.CoreCompileInputs.cache
+D:\Users\1210N-9\Documents\2-ИСП\ОП\Подгруппа 1\Кондаков\PR_15\obj\Debug\PR_15.exe
+D:\Users\1210N-9\Documents\2-ИСП\ОП\Подгруппа 1\Кондаков\PR_15\obj\Debug\PR_15.pdb
